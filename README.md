@@ -60,3 +60,5 @@ Patient wait times and satisfaction scores indicate room for improvement.
 General practice and orthopedics are the most frequent referral departments.
 ER visits are dominated by working-age adults, suggesting lifestyle or work-related health concerns.
 These insights can help hospital administrators optimize staffing, improve patient care workflows, and enhance overall healthcare delivery.
+
+![Hospital-ER-Dashboard-Power-BI](./tjhumbnail.png)
