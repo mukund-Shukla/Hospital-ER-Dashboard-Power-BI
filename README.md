@@ -62,3 +62,8 @@ ER visits are dominated by working-age adults, suggesting lifestyle or work-rela
 These insights can help hospital administrators optimize staffing, improve patient care workflows, and enhance overall healthcare delivery.
 
 ![Hospital-ER-Dashboard-Power-BI](./tjhumbnail.png)
+![Hospital-ER-Dashboard-Power-BI](./thumbnail2.png)
+![Hospital-ER-Dashboard-Power-BI](./t3.png)
+![Hospital-ER-Dashboard-Power-BI](./t4.png)
+
+
